@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80459" started-at="2022-02-25T09:00:06 IST" finished-at="2022-02-25T09:01:27 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80459" started-at="2022-02-25T09:00:06 IST" finished-at="2022-02-25T09:01:27 IST">
+      <class name="testNG1.NewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="setUp" is-config="true" duration-ms="15796" started-at="2022-02-25T09:00:06 IST" finished-at="2022-02-25T09:00:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM(java.lang.String,java.lang.String)[pri:0, instance:testNG1.NewTest@59e5ddf]" name="testOrangeHRM" duration-ms="4936" started-at="2022-02-25T09:00:22 IST" data-provider="actiTimeInvalidCredentials" finished-at="2022-02-25T09:00:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="621" started-at="2022-02-25T09:00:27 IST" finished-at="2022-02-25T09:00:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="setUp" is-config="true" duration-ms="9240" started-at="2022-02-25T09:00:28 IST" finished-at="2022-02-25T09:00:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM(java.lang.String,java.lang.String)[pri:0, instance:testNG1.NewTest@59e5ddf]" name="testOrangeHRM" duration-ms="4083" started-at="2022-02-25T09:00:37 IST" data-provider="actiTimeInvalidCredentials" finished-at="2022-02-25T09:00:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="195" started-at="2022-02-25T09:00:41 IST" finished-at="2022-02-25T09:00:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="setUp" is-config="true" duration-ms="8847" started-at="2022-02-25T09:00:41 IST" finished-at="2022-02-25T09:00:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM(java.lang.String,java.lang.String)[pri:0, instance:testNG1.NewTest@59e5ddf]" name="testOrangeHRM" duration-ms="4182" started-at="2022-02-25T09:00:50 IST" data-provider="actiTimeInvalidCredentials" finished-at="2022-02-25T09:00:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin$123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="148" started-at="2022-02-25T09:00:54 IST" finished-at="2022-02-25T09:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="setUp" is-config="true" duration-ms="14499" started-at="2022-02-25T09:00:54 IST" finished-at="2022-02-25T09:01:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM(java.lang.String,java.lang.String)[pri:0, instance:testNG1.NewTest@59e5ddf]" name="testOrangeHRM" duration-ms="4477" started-at="2022-02-25T09:01:09 IST" data-provider="actiTimeInvalidCredentials" finished-at="2022-02-25T09:01:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="184" started-at="2022-02-25T09:01:13 IST" finished-at="2022-02-25T09:01:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="setUp" is-config="true" duration-ms="8805" started-at="2022-02-25T09:01:13 IST" finished-at="2022-02-25T09:01:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangeHRM(java.lang.String,java.lang.String)[pri:0, instance:testNG1.NewTest@59e5ddf]" name="testOrangeHRM" duration-ms="4206" started-at="2022-02-25T09:01:22 IST" data-provider="actiTimeInvalidCredentials" finished-at="2022-02-25T09:01:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ad min]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manager123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangeHRM -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testNG1.NewTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="193" started-at="2022-02-25T09:01:26 IST" finished-at="2022-02-25T09:01:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
